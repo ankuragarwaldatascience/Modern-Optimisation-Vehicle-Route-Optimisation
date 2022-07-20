@@ -1,5 +1,8 @@
 # Solving Travelling-Salesman Problem and Vehicle Route Opimisation 
 
+Tech Stack , Tools and Skills  Required for Project
+
+
 Modern Optimisation 
 
 The use of metaheuristic optimization methods such as those used in modern computer science is particularly useful when solving complex problems that cannot be solved with specialized algorithms. High-quality solutions are often obtained with a modest use of computational resources through these methods
