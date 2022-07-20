@@ -1,7 +1,6 @@
 # Solving Travelling-Salesman Problem and Vehicle Route Opimisation 
 
-Tech Stack , Tools and Skills  Required for Project
-
+The technology stack, tools, and skills required for the project.
 
 Modern Optimisation 
 
