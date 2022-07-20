@@ -1,4 +1,4 @@
-# Solving Travelling-Salesman-Problem and Vehicle Route Opimisation 
+# Solving Travelling-Salesman Problem and Vehicle Route Opimisation 
 
 Modern Optimisation 
 
