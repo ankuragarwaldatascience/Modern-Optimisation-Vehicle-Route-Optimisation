@@ -23,3 +23,8 @@ Real World Usage of TSP
 
 
 ![chromosome](https://user-images.githubusercontent.com/103935236/168441682-3edbf8a8-eaae-4563-978c-ec3657b28366.gif)
+
+
+Discussion 
+
+In this project, we seek to determine the shortest path for a travelling salesman. Using route optimization can be beneficial to businesses. ”Tour” is a permutation of n cities in TSP. To be sure of finding the best tour, we might need to search all possible tour options (ie. all possible permutations of the n cities). There are n! Permutations. Three different types of crossovers were used in the study: position-based crossovers, partially mapped crossovers, and order crossovers. The number of runs for the GA has been set to 500 times and the population size is 200. We use the fitness function to determine which of the 3 crossovers is the best. On the X axis we have no Generations, and on the Y axis we have Fitness Values. We plotted Finess Values in Green, Blue, and Black using 3 crossovers. Black line uses pbx crossover, blue line uses pmx crossover, and green line uses pbx crossover. Solid black, green, or blue lines represent the average of 500 runs. We obtain slightly different results each time we run GA. The standard deviations of these 500 runs reflect the errors. This error bar can also be said to show the fluctuation of the result. As we can see in our result, the results are not overlapping, so the difference is Significantly different. At the beginning of the run we can see all three lines collide, meaning the results were the same as in the beginning, and then as the generation went on and we used 3 different crossovers, the results improved.
